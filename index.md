@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub BIO
 
-You can use the [editor on GitHub](https://github.com/RyaiStudio/ryaistudio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SUCCESS - I have been developing web application for the last 4yrs. I specialize helping company providing support, application development and design a platform responsible in architectural structure that deal with new and existing Web Application from development to production.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I develop Application using the following primary framework like laravel, vue, react. Equip with advance knowledge in PHP and Javascript Object Oriented Programming.I have also knowledge in MySQL database, CMS like Wordpress and Shopify.
 
 ### Markdown
 
